@@ -1,0 +1,62 @@
+UCODE,imageid,product_name,side1,side2,productid,view 
+product 1,img01,Rose Geranium Handcrafted Soap,6,7.1,product 1,TOP
+product 1,img02,Rose Geranium Handcrafted Soap,7.1,3,product 1,SIDE
+F79881,img03,Zandu Balm Ultra Power,5,3.5,product 2,TOP
+F79881,img04,Zandu Balm Ultra Power,3.5,3.5,product 2,SIDE
+65285,img05,Electral ORS Sachet,8.5,10.3,product 3,TOP
+65285,img06,Electral ORS Sachet,10.3,8.5,product 3,TOP
+65285,img07,Electral ORS Sachet,0.6,10.3,product 3,SIDE
+65285,img08,Electral ORS Sachet,0.6,10.3,product 3,SIDE
+K43300,img09,Oral Rehydration Salts,9.9,8,product 4,TOP
+K43300,img10,Oral Rehydration Salts,8,9.9,product 4,TOP
+K43300,img11,Oral Rehydration Salts,1,9.9,product 4,SIDE
+K43300,img12,Oral Rehydration Salts,1,9.9,product 4,SIDE
+product 5,img13,Bon ok shot,2.5,4.3,product 5,SIDE
+product 5,img14,Bon ok shot,2.5,2.5,product 5,TOP
+product 6 ,img15,Nimucei Gold,7.5,5.3,product 6 ,TOP
+product 6 ,img16,Nimucei Gold,7.5,5.3,product 6 ,TOP
+product 6 ,img17,Nimucei Gold,0.5,7.5,product 6 ,SIDE
+product 6 ,img18,Nimucei Gold,0.5,5.3,product 6 ,SIDE
+I36904,img19,Duolin Resibles,13,7,product 7,TOP
+I36904,img20,Duolin Resibles,7,13,product 7,TOP
+I36904,img21,Duolin Resibles,1.75,13,product 7,SIDE
+product 8,img22,Lautus Tissue,10,5,product 8,TOP
+product 8,img23,Lautus Tissue,10,2.5,product 8,SIDE
+product 9,img24,Pharmeasy Medicine Box,24,15.75,product 9,TOP
+product 9,img25,Pharmeasy Medicine Box,8.5,24,product 9,SIDE
+product 10,img26,Gelusil Antacid Tablets,8.5,6.7,product 10,TOP
+product 10,img27,Gelusil Antacid Tablets,8.5,0.5,product 10,SIDE
+93990,img28,Imodium Capsule,8.3,6,product 11,TOP
+I15161,img29,Sporlac Tablets,11,9,product 12,TOP
+I15161,img30,Sporlac Tablets,9,11,product 12,TOP
+product 13,img31,Saridon,6,9.5,product 13,TOP
+product 13,img32,Saridon,6,0.5,product 13,SIDE
+product 14,img33,Vicks Action 500,6,9,product 14,TOP
+product 14,img34,Vicks Action 500,6,0.5,product 14,SIDE
+product 15,img35,Pharmeasy Medicine Cap,2.7,2.7,product 15,TOP
+254960,img36,Betadine Solution,11,4,product 16,TOP
+254960,img37,Betadine Solution with Cap,13.7,4,product 16,TOP
+254960,img38,Betadine Solution,4,4,product 16,SIDE
+product 17 ,img39,Soframycin,14.5,3.2,product 17 ,SIDE
+product 17 ,img40,Soframycin,3.2,14.5,product 17 ,SIDE
+product 17 ,img41,Soframycin,3.2,2.5,product 17 ,TOP
+product 18,img42,Cotton Roll,10.8,5.8,product 18,SIDE
+product 18,img43,Cotton Roll,5,5.8,product 18,TOP
+product 19,img44,Montewok LC,10,4.5,product 19,TOP
+product 19,img45,Montewok LC,10,1.5,product 19,SIDE
+product 19,img46,Montewok LC,1.5,4.5,product 19,SIDE
+product 20,img47,Paushali Bottle,7.5,7.5,product 20,TOP
+product 20,img48,Paushali Bottle,25,7.5,product 20,SIDE
+product 21,img49,Bisleri Water Bottle,16,5,product 21,SIDE
+product 21,img50,Bisleri Water Bottle,5,5,product 21,TOP
+product 22,img51,AC Remote,17,5.5,product 22,TOP
+product 23,img52,Mac Charger,7.5,3.8,product 23,TOP
+product 24,img53,Vidul Earpods,5.5,5.5,product 24,TOP
+product 24,img54,Vidul Earpods,5.5,3,product 24,SIDE
+product 25,img55,Hackeasy sticker,6.5,9,product 25,TOP
+product 26,img56,Camlin Marker,13.5,1.5,product 26,TOP
+product 27,img57,Wooden Fork,15.5,2.75,product 27,TOP
+product 28,img58,Hand Sanitizer,6.75,6.75,product 28,TOP
+product 29,img59,Duster,14.5,4.5,product 29,TOP
+product 29,img60,Duster,14.5,3.5,product 29,SIDE
+product 29,img61,Duster,4.5,3.5,product 29,SIDE
